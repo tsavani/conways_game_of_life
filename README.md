@@ -18,7 +18,7 @@ And output would look like :
 0 0 0 0
 ```
 
-you can try running with the sample input files:
+you can try running with the sample input files.
 
 ```sh
   $ ruby bin/gameoflife.rb seed.txt
